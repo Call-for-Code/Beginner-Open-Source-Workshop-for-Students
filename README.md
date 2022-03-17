@@ -1,29 +1,17 @@
-# Beginner's Open Source Workshop (for IBMers)
+# Beginner's Open Source Workshop (for Students)
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/static/v1?label=Community&message=%23open-source-general&color=blue)](https://callforcode.org/slack)
 
-Simple lab for IBMers to start to use GitHub and submit their first pull request.
+Simple lab for students to start to use GitHub and submit their first pull request.
 
-- [Create a GitHub Enterprise account](#create-a-github-enterprise-account)
 - [Create a GitHub account](#create-a-github-account)
-- [Link your GHE account with your GH account](#link-your-ghe-account-with-your-gh-account)
 - [Exercise 1: Create your first pull request](#exercise-1-create-your-first-pull-request)
 - [Exercise 2: Create your first repo from a template](#exercise-2-create-your-first-repo-from-a-template)
 - [Next steps](#next-steps)
 
-## Create a GitHub Enterprise account
-
-[IBM uses GitHub Enterprise internally](https://www.youtube.com/watch?v=4wbxxzDp98c) for various software projects, project management, and general inner source development.
-
-By [signing into GHE with your intranet id](https://github.ibm.com/), you'll create an account if you don't already have one.
-
 ## Create a GitHub account
 
-Now, go ahead and [sign up a public GitHub account](https://github.com/signup). It doesn't have to have the same user name, email, or password as your GHE account. We'll link the two in the next step.
-
-## Link your GHE account with your GH account
-
-Click the [GitHub account mapper button](https://w3.ibm.com/developer/open-source/) on the **Open Source @ IBM** page at on the intranet. Go through the steps to link your accounts.
+Go ahead and [sign up a public GitHub account](https://github.com/signup).
 
 ## Exercise 1: Create your first pull request
 
