@@ -19,7 +19,7 @@ With that done, it's now time to create your first GitHub contribution! Follow t
 
 ## Exercise 2: Create your first repo from a template
 
-Ok, now that you've learned how to contribute to an existing project, it's time to create and configure your own repository from the [**Project Sample template**](https://github.com/Call-for-Code/Project-Sample).
+Ok, now that you've learned how to contribute to an existing project, it's time to create and configure your own repository from the [**Repo Template**](https://github.com/Call-for-Code/Repo-Template).
 
 First, click the green "Use this template" button at the top of the repo. Create a copy under your GitHub user name. You can make it public or private if you want to work on something before releasing it later.
 
