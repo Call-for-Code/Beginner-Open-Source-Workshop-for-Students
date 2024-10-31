@@ -7,6 +7,7 @@ Simple lab for students to start to use GitHub and submit their first pull reque
 - [Create a GitHub account](#create-a-github-account)
 - [Exercise 1: Create your first pull request](#exercise-1-create-your-first-pull-request)
 - [Exercise 2: Create your first repo from a template](#exercise-2-create-your-first-repo-from-a-template)
+- [Exercise 3: Create a website from a repo](#exercise-3-create-a-website-from-a-repo)
 - [Next steps](#next-steps)
 
 ## Create a GitHub account
@@ -49,7 +50,13 @@ This tab serves as your metrics dashboard. You can see how your code is being up
 
 ### Settings
 
-Finally, this tab contains just about every other configuration for your project. You can manage user permissions here and invite others to collaborate on your project. One other interesting item is Pages. This allows you to publish a public website from your repository. So if you're looking for free webhosting (you can even point a custom domain at it) this could be interesting. This is used to host [**pyrrha-platform.org**](https://github.com/Pyrrha-Platform/Pyrrha-Website).
+Finally, this tab contains just about every other configuration for your project. You can manage user permissions here and invite others to collaborate on your project. One other interesting item is Pages. This allows you to publish a public website from your repository. So if you're looking for free webhosting (you can even point a custom domain at it) this could be interesting. This is used to host [**pyrrha-platform.org**](https://github.com/Pyrrha-Platform/Pyrrha-Website). We'll show you how to create your own website in the next exercise.
+
+## Exercise 3: Create a website from a repo
+
+For this exercise, you'll follow the steps in the [Quickstart for GitHub Pages documentation](https://docs.github.com/en/pages/quickstart).
+
+> You can use GitHub Pages to showcase some open source projects, host a blog, or even share your résumé. This guide will help get you started on creating your next website.
 
 ## Next steps
 
