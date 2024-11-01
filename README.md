@@ -12,7 +12,7 @@ Simple lab for students to start to use GitHub and submit their first pull reque
 
 ## Create a GitHub account
 
-Go ahead and [sign up a public GitHub account](https://github.com/signup).
+Go ahead and [sign up for a public GitHub account](https://github.com/signup).
 
 ## Exercise 1: Create your first pull request
 
@@ -63,5 +63,7 @@ For this exercise, you'll follow the steps in the [Quickstart for GitHub Pages d
 After you've gotten the hang of things through this workshop repository, we encourage you to continue learning more about contributing to open source.
 
 1. Spend 4-6 hours on the [**free "Introduction to Open Source" class**](https://cognitiveclass.ai/courses/introduction-to-open-source). It's intended for technical and non-technical folks alike to learn about open source, which is becoming a key skill in today's world. You can earn a badge and certificate after completion.
+
+1. And/or you can spend about 7-10 hours on the [**free "A Beginner’s Guide to Open Source Software Development" training course**](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/) from the Linux Foundation. 
 
 1. Explore the existing [**Call for Code projects**](https://github.com/Call-for-Code/Project-Catalog) and make your first contribution! Anything from a small typo fix, to a language translation or documentation update, to an important code fix is welcome!
